@@ -1,4 +1,0 @@
-/Users/shohei/Documents/CLionProjects/CameraCalibration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/shohei/Documents/CLionProjects/CameraCalibration/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shohei/Documents/CLionProjects/CameraCalibration/cmake-build-debug/CMakeFiles/CameraCalibration.dir
-/Users/shohei/Documents/CLionProjects/CameraCalibration/cmake-build-debug/CMakeFiles/CameraCalibration_autogen.dir
